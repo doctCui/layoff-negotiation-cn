@@ -1,0 +1,3 @@
+display_name: Layoff Negotiation CN
+short_description: Handle layoff talks in China.
+default_prompt: Help me handle a layoff negotiation in China: analyze the situation, preserve evidence, draft HR/ER responses, and plan next steps.
