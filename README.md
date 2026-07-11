@@ -41,6 +41,9 @@ Agent 应按本 Skill 的流程帮你整理：
 - `references/performance-dispute.md`：绩效不合格、PIP、绩效申诉会应对。
 - `references/evidence-checklist.md`：证据清单和取证边界。
 - `references/compensation-and-arbitration.md`：N、N+1、2N、补偿测算和仲裁现实成本。
+- `references/economic-layoff.md`：经济性裁员程序、优先留用和重新招用规则。
+- `references/unemployment-benefits.md`：失业金申领、社保医保和公积金衔接。
+- `references/non-compete.md`：竞业限制、竞业补偿和解除边界。
 - `references/separation-certificate.md`：离职证明内容、法律依据和重开话术。
 - `references/work-and-job-search.md`：在岗期间考勤、产出、找工作边界。
 - `references/emotional-reality.md`：裁员协商过程中的情绪压力和现实成本。
@@ -62,6 +65,7 @@ Agent 应按本 Skill 的流程帮你整理：
 - 新的 HR/ER 话术场景。
 - 绩效申诉、PIP、调岗、考勤、背调、离职证明等真实经验。
 - 更清晰的补偿计算例子。
+- 经济性裁员、失业金、竞业限制等场景的公开规则和实务经验。
 - 更稳妥的证据保全建议。
 - 不同城市、不同公司类型下的流程差异。
 - 律师咨询时值得问的问题。
