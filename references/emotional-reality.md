@@ -33,6 +33,68 @@ Before recommending escalation, help the user check:
 - Is the user sleeping and functioning normally?
 - Would a clean agreement now be worth more than a larger but uncertain claim later?
 
+## The "Why Me" Loop
+
+Use this when the user repeatedly asks:
+
+- Why was I selected?
+- What if it had not been me?
+- I performed well, so why did this happen?
+- Was I set up?
+- Did the company erase my past contribution?
+
+Do not answer with shallow optimism. First name the loop:
+
+```text
+You may be stuck in a fairness loop, not simply "thinking too much". The event conflicts with your self-evaluation: you believe you worked hard and performed well, but the organization still selected you. That mismatch is painful.
+```
+
+Then separate facts from interpretations:
+
+- Fact: the user was put into a layoff or termination process.
+- Possible factors: cost, headcount, business direction, manager preference, politics, quota, or unfairness.
+- Not proven: the user is incapable, worthless, or personally failed.
+
+Use a temporary conclusion:
+
+```text
+This event does not prove that I am incapable. It proves that, in this organizational decision, I was selected. The reason may be mixed, unfair, or partly unknowable.
+```
+
+## Rumination Control
+
+When the user cannot stop replaying "why me", do not demand that they immediately let it go. Give a containment method:
+
+1. Create a fixed "worry window", such as 20 minutes at night.
+2. During the window, write the repeated thoughts down without judging them.
+3. End with one sentence: "I have thought about this today. I will not continue judging myself now."
+4. Move to one concrete action: sleep, eat, walk, prepare evidence, send one message, or apply for one job.
+
+Do not argue with every thought. The goal is to reduce unlimited looping, not to solve the whole event emotionally in one sitting.
+
+## Reframe Without Lying
+
+Avoid fake comfort like "this is definitely a good thing". Use honest reframing:
+
+```text
+This can be unfair and painful, and it can still be something I respond to. I do not need to approve of what happened in order to protect myself and move forward.
+```
+
+Useful distinction:
+
+- Acceptance does not mean agreement.
+- Moving forward does not mean the company was right.
+- Being selected does not equal being bad.
+- Feeling hurt does not mean being weak.
+
+## When To Seek More Help
+
+If the user has persistent insomnia, cannot eat, cannot function at work, has panic symptoms, or feels unsafe with themselves, recommend talking to a trusted person and seeking professional mental health support promptly. Keep this practical and non-stigmatizing:
+
+```text
+This has already moved beyond ordinary frustration. You do not need to carry it alone. Please talk to someone you trust today and consider professional support.
+```
+
 ## Practical Stabilizers
 
 Recommend small, grounded actions:
