@@ -1,82 +1,82 @@
-# Evidence Checklist
+# 证据清单
 
-Use this when the user asks what to photograph, record, preserve, or prepare for negotiation, lawyer consultation, arbitration, or performance appeal.
+当用户询问应该拍什么、录什么、保存什么，或准备律师咨询、仲裁、绩效申诉材料时，读取本文件。
 
-## Evidence Categories
+## 证据类别
 
-Employment relationship:
+劳动关系：
 
-- Labor contract.
-- Offer letter.
-- Renewal contracts.
-- Job title, department, reporting line, work location.
-- Employee profile page.
+- 劳动合同。
+- Offer。
+- 续签合同。
+- 岗位、部门、汇报关系、工作地点。
+- 员工个人信息页。
 
-Compensation:
+薪酬：
 
-- Payslips.
-- Bank salary records.
-- Individual income tax records.
-- Social insurance and housing provident fund records.
-- Annual bonus, year-end bonus, salary adjustment, incentive plans.
-- Reimbursement and unpaid benefit records.
+- 工资条。
+- 银行工资流水。
+- 个税记录。
+- 社保和住房公积金记录。
+- 年终奖、奖金、调薪、激励计划。
+- 报销和未结算福利记录。
 
-Leave and attendance:
+假期与考勤：
 
-- Annual leave balance.
-- Compensatory leave.
-- Overtime records where applicable.
-- Attendance records.
+- 年假余额。
+- 调休余额。
+- 适用场景下的加班记录。
+- 考勤记录。
 
-Performance:
+绩效：
 
-- Historical performance ratings.
-- OKR/KPI records.
-- Performance rules and appeal process.
-- Performance result emails.
-- Performance discussion meeting notices.
-- Appeal submissions and responses.
+- 历史绩效结果。
+- OKR/KPI 记录。
+- 绩效制度和申诉流程。
+- 绩效结果邮件。
+- 绩效沟通会通知。
+- 申诉提交记录和公司回复。
 
-Work delivery:
+工作交付：
 
-- Project launch records.
-- Requirements, task assignments, milestones.
-- Work reports, weekly reports, monthly reports.
-- Review comments and positive feedback.
-- Awards, recognition, or promotion materials.
+- 项目上线记录。
+- 需求、任务分配、里程碑。
+- 周报、月报、工作汇报。
+- 评审意见和正向反馈。
+- 获奖、表彰、晋升材料。
 
-Layoff negotiation:
+离职协商：
 
-- HR/ER chat records.
-- E-sign links and agreements.
-- Meeting invitations.
-- Notes of oral conversations.
-- Any statement about package, separation date, deadline, backcheck, or performance pressure.
+- HR/ER 聊天记录。
+- 电子签链接和协议内容。
+- 会议邀请。
+- 口头沟通后的纪要。
+- 关于补偿、离职日期、签署期限、背调影响、绩效压力的任何表述。
 
-## Capture Method
+## 保存方式
 
-Prefer complete, contextual captures:
+优先保留完整上下文：
 
-- Use phone photos or videos to show the page, account, time, system name, and path.
-- Record the steps used to open the page when possible.
-- Preserve original files and metadata.
-- Do not crop, edit, or annotate the only copy.
-- Back up to personal storage.
+- 用手机照片或视频展示页面、账号、时间、系统名称和进入路径。
+- 条件允许时，录下从入口打开页面的过程。
+- 保存原始文件和元数据。
+- 不要只保留被裁剪、被涂改、被二次编辑的版本。
+- 备份到个人可控制的安全存储中。
 
-Screenshots are useful but may miss context. Photos/videos can show that the record came from a real system and was not an isolated image.
+截图有用，但可能缺少上下文。照片或视频更能说明记录来自真实系统，而不是孤立图片。
 
-## Audio And Video
+## 录音录像
 
-Preserve conversations only within legal boundaries. Keep the original audio/video carrier. Do not edit the file. Ask a lawyer about admissibility and local practice before relying on it.
+只在合法边界内保留沟通记录。保留原始音视频载体，不剪辑、不覆盖。是否能作为证据使用、证明力如何，应咨询律师确认当地实践。
 
-## What Not To Take
+## 不要拿的东西
 
-Do not copy or export:
+不要复制或导出：
 
-- Source code unrelated to the dispute.
-- Customer data.
-- Trade secrets.
-- Internal confidential documents unrelated to employment rights.
-- Other employees' private information beyond what is necessary and lawful.
+- 与争议无关的源代码。
+- 客户数据。
+- 商业秘密。
+- 与劳动权益无关的内部保密文件。
+- 非必要且不合法的其他员工个人信息。
 
-The evidence should prove employment relationship, compensation, leave, performance, work delivery, and company communication. It should not create new compliance risk.
+证据应服务于证明劳动关系、薪酬、假期、绩效、工作交付和公司沟通，不应制造新的合规风险。

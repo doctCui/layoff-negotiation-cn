@@ -1,85 +1,85 @@
-# Work And Job Search During Dispute
+# 争议期间的上班与求职
 
-Use this when the user asks how to behave at work during layoff negotiation, whether to interview at work, whether to use company computer, or how to avoid misconduct allegations.
+当用户询问裁员协商期间如何上班、能不能在公司面试、能不能使用公司电脑、如何避免违纪指控时，读取本文件。
 
-## Core Rule
+## 核心规则
 
-The user should behave like a careful, normal employee until the employment relationship is formally resolved.
+在劳动关系正式解决前，用户应表现得像一个谨慎、正常、持续履职的员工。
 
-## Work Conduct
+## 工作行为
 
-Recommend:
+建议：
 
-- Attend work normally.
-- Keep attendance records normal and complete.
-- Respond to reasonable work messages.
-- Ask for written work assignments.
-- Give progress updates.
-- Keep some visible output every workday where possible.
-- Keep communication factual and polite.
-- Avoid emotional conflict.
+- 正常出勤。
+- 保持考勤记录完整、干净。
+- 响应合理工作消息。
+- 要求书面工作安排。
+- 同步工作进展。
+- 条件允许时，每个工作日保留一些可见产出。
+- 沟通保持事实化和礼貌。
+- 避免情绪冲突。
 
-Avoid:
+避免：
 
-- Refusing reasonable work orally.
-- Disappearing or ignoring messages.
-- Being late or absent without approval.
-- Leaving the workplace for a long time without leave or written approval.
-- Deleting company data.
-- Taking confidential materials.
-- Using company resources for personal job search.
+- 口头拒绝合理工作。
+- 消失或不回消息。
+- 无审批迟到、缺勤。
+- 未请假或无书面批准，长时间离开工作场所。
+- 删除公司数据。
+- 带走保密材料。
+- 使用公司资源处理个人求职事项。
 
-## Attendance And Presence
+## 考勤与在岗
 
-During a dispute, attendance can become an easy discipline hook. Tell the user to keep attendance boring and clean:
+争议期间，考勤容易变成纪律抓手。提醒用户把考勤做得无聊、稳定、没有争议：
 
-- Arrive and leave according to company rules.
-- Keep daily attendance normal.
-- After going home, preserve a personal record of the day's attendance where lawful and practical, such as a phone photo of the attendance result or workday record.
-- Do not casually leave the workplace for a long time during working hours.
-- If the user needs to leave for more than a short break, use the company's leave, out-of-office, or written approval process.
-- If the workplace uses entry/exit access records, assume long unexplained gaps may be used as evidence of absence from duty.
+- 按公司规则上下班。
+- 保持每日考勤正常。
+- 回到住处后，在合法和可行范围内，保留个人考勤记录，例如用手机拍下考勤结果或工作日记录。
+- 工作时间不要随意长时间离开工作场所。
+- 如果需要离开超过正常短暂休息，应走请假、外出或书面审批流程。
+- 如果公司有门禁进出记录，应假设长时间无法解释的空档可能被用于证明脱岗。
 
-Use this guidance:
+可提醒用户：
 
 ```text
-Do not give the company an attendance or absence-from-duty issue. If you need to leave, ask for leave or written approval. Keep your own record of attendance and work presence.
+不要给公司制造考勤或脱岗问题。如果确实需要离开，走请假或书面审批。保留自己的考勤和在岗记录。
 ```
 
-## Asking For Work
+## 要求分配工作
 
 ```text
-I am still normally employed and will continue performing my duties. Please clarify my current work items, priorities, and expected delivery time. I will cooperate and provide progress updates.
+我仍处于正常劳动关系中，会继续正常履职。请明确我当前的工作事项、优先级和预期交付时间，我会配合推进并同步进展。
 ```
 
-## Daily Output
+## 每日产出记录
 
-During a dispute, it is better not to let work stop completely. The user should keep a lightweight daily work record:
+争议期间，最好不要让工作完全停摆。建议用户保留轻量工作记录：
 
-- What task was assigned.
-- What was completed.
-- What was blocked.
-- Who was waiting for input.
-- What progress update was sent.
+- 收到什么任务。
+- 完成了什么。
+- 卡点是什么。
+- 需要谁输入或确认。
+- 发出了什么进展同步。
 
-This does not mean overworking or accepting unreasonable pressure. It means keeping proof that the user remained cooperative, productive, and available.
+这不是要求用户过度加班或接受不合理压力，而是证明自己持续配合、可用、有产出。
 
-## If No Work Is Assigned
+## 如果没有工作安排
 
 ```text
-I have asked for current work arrangements and have not yet received specific tasks. If there is work requiring my cooperation, please sync it with me and I will respond normally.
+我已询问当前工作安排，目前尚未收到具体任务。如有需要我配合的工作，请同步给我，我会正常响应和处理。
 ```
 
-## Job Search
+## 求职边界
 
-Use personal devices, personal network, and personal time. Do not use company computer or company network for interviews, resume editing, job sites, or interview notes during a dispute. Even if common in normal times, it can be framed as work-discipline or information-security risk during conflict.
+使用个人设备、个人网络和个人时间。争议期间，不建议使用公司电脑或公司网络处理面试、改简历、投递岗位、写面试笔记。即使正常时期大家可能不在意，争议中也可能被包装成工作纪律或信息安全问题。
 
-If an interview must happen during work hours, use leave or break time where possible.
+如果必须在工作时间面试，尽量使用请假或休息时间，并保留审批或合理解释。
 
-## HR Asks For Resume Or Referral
+## HR 要简历或推荐岗位
 
-This can be outplacement help, but it can also create ambiguity. Keep the language neutral:
+这可能是帮助转岗或外部推荐，也可能制造新的模糊空间。表达保持中性：
 
 ```text
-Thank you. I can learn about suitable external opportunities if any. Regarding the current employment relationship arrangement, please have the company provide a formal written proposal and I will handle it according to law and company process.
+感谢。我可以了解合适的外部机会。关于当前劳动关系安排，请公司提供正式书面方案，我会依法依规处理。
 ```

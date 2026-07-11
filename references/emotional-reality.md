@@ -1,118 +1,118 @@
-# Emotional Reality During Layoff Negotiation
+# 裁员协商中的情绪现实
 
-Use this when the user feels sad, oppressed, angry, confused, or repeatedly asks "why me" during layoff negotiation, performance dispute, ER pressure, or arbitration preparation.
+当用户在裁员协商、绩效争议、ER 施压或仲裁准备过程中感到悲伤、压抑、愤怒、混乱，或反复问“为什么是我”时，读取本文件。
 
-## Core Message
+## 核心信息
 
-Do not treat layoff negotiation as only a legal or money problem. The user may know rationally that refusing to sign, waiting for unilateral termination, or preserving a 2N claim is a possible strategy, while emotionally feeling exhausted and hurt.
+不要把裁员协商只当作法律问题或金钱问题。用户可能理性上知道“不签、等公司单方解除、保留 2N 主张”是一种策略，但情绪上仍然会疲惫、受伤、委屈。
 
-## Say The Quiet Part
+## 把真实压力说出来
 
-The path is often harder than social media suggests:
+这条路通常比社媒内容看起来更难：
 
-- It is easy to say "wait for unilateral termination" when it is not happening to you.
-- It is easy to say "just arbitrate for 2N" after compressing weeks of pressure into one post.
-- The real person still has to sit in the office, face HR/ER, receive performance emails, and keep working.
-- The work environment may become depressing, especially for high-sensitivity users.
-- The user may keep thinking: "Why me? I worked hard. I was capable. Why was I selected?"
+- 当事情没有发生在自己身上时，说“等公司单方解除”很容易。
+- 把几周压力压缩成一篇帖子后，说“直接仲裁拿 2N”也很容易。
+- 真实的人仍然要坐在工位上，面对 HR/ER，接收绩效邮件，继续工作。
+- 办公环境可能变得压抑，高敏感用户尤其明显。
+- 用户可能反复想：“为什么是我？我明明努力，也有能力，为什么被选中？”
 
-Validate this without encouraging impulsive action:
-
-```text
-This is not just a compensation calculation. It is also a pressure environment. It is normal to feel sad or oppressed even if the strategy is rational.
-```
-
-## Emotional Decision Check
-
-Before recommending escalation, help the user check:
-
-- How much money is the realistic upside?
-- How strong is the evidence?
-- How urgent is the job search?
-- How much stress can the user tolerate?
-- Is the user sleeping and functioning normally?
-- Would a clean agreement now be worth more than a larger but uncertain claim later?
-
-## The "Why Me" Loop
-
-Use this when the user repeatedly asks:
-
-- Why was I selected?
-- What if it had not been me?
-- I performed well, so why did this happen?
-- Was I set up?
-- Did the company erase my past contribution?
-
-Do not answer with shallow optimism. First name the loop:
+先共情，但不要鼓励冲动行动：
 
 ```text
-You may be stuck in a fairness loop, not simply "thinking too much". The event conflicts with your self-evaluation: you believe you worked hard and performed well, but the organization still selected you. That mismatch is painful.
+这不只是补偿计算，也是一个压力环境。即使策略上你知道自己该稳住，情绪上感到悲伤和压抑也很正常。
 ```
 
-Then separate facts from interpretations:
+## 情绪决策检查
 
-- Fact: the user was put into a layoff or termination process.
-- Possible factors: cost, headcount, business direction, manager preference, politics, quota, or unfairness.
-- Not proven: the user is incapable, worthless, or personally failed.
+在建议用户升级对抗前，先帮助用户检查：
 
-Use a temporary conclusion:
+- 现实收益大概有多少。
+- 证据强度如何。
+- 求职是否紧迫。
+- 当前压力还能承受多久。
+- 睡眠、饮食、工作功能是否还能维持。
+- 现在签一个干净方案，是否比以后争取更大但不确定的结果更适合自己。
+
+## “为什么是我”的循环
+
+当用户反复问这些问题：
+
+- 为什么被选中的是我？
+- 如果不是我会怎样？
+- 我表现不错，为什么还会这样？
+- 我是不是被设计了？
+- 公司是不是抹掉了我过去的贡献？
+
+不要用空泛乐观回答。先命名这个循环：
 
 ```text
-This event does not prove that I am incapable. It proves that, in this organizational decision, I was selected. The reason may be mixed, unfair, or partly unknowable.
+你可能卡在了公平感循环里，不是简单的“想太多”。这件事和你的自我评价冲突：你认为自己努力、有能力、有贡献，但组织决策仍然把你选进了这个流程。这个落差本身就会让人痛。
 ```
 
-## Rumination Control
+再区分事实和解释：
 
-When the user cannot stop replaying "why me", do not demand that they immediately let it go. Give a containment method:
+- 事实：用户进入了裁员或解除流程。
+- 可能因素：成本、编制、业务方向、管理者偏好、组织政治、名额、甚至不公平。
+- 不能证明：用户没能力、没价值，或个人失败。
 
-1. Create a fixed "worry window", such as 20 minutes at night.
-2. During the window, write the repeated thoughts down without judging them.
-3. End with one sentence: "I have thought about this today. I will not continue judging myself now."
-4. Move to one concrete action: sleep, eat, walk, prepare evidence, send one message, or apply for one job.
-
-Do not argue with every thought. The goal is to reduce unlimited looping, not to solve the whole event emotionally in one sitting.
-
-## Reframe Without Lying
-
-Avoid fake comfort like "this is definitely a good thing". Use honest reframing:
+给一个临时结论：
 
 ```text
-This can be unfair and painful, and it can still be something I respond to. I do not need to approve of what happened in order to protect myself and move forward.
+这件事不能证明我没有能力。它只能证明，在这次组织决策里，我被选中了。原因可能复杂、不公平，也可能部分永远无法被我知道。
 ```
 
-Useful distinction:
+## 控制反刍
 
-- Acceptance does not mean agreement.
-- Moving forward does not mean the company was right.
-- Being selected does not equal being bad.
-- Feeling hurt does not mean being weak.
+当用户停不下“为什么是我”的反复回放，不要要求立刻放下。给一个可执行的收纳方法：
 
-## When To Seek More Help
+1. 固定一个“担心窗口”，例如晚上 20 分钟。
+2. 在这个时间里，把反复出现的想法写下来，不评价。
+3. 结束时写一句：“我已经想过这件事了，接下来不继续审判自己。”
+4. 转向一个具体动作：睡觉、吃饭、散步、整理一类证据、发一条必要消息、投递一个岗位。
 
-If the user has persistent insomnia, cannot eat, cannot function at work, has panic symptoms, or feels unsafe with themselves, recommend talking to a trusted person and seeking professional mental health support promptly. Keep this practical and non-stigmatizing:
+不要和每一个念头辩论。目标不是一次性解决全部情绪，而是减少无限循环。
+
+## 不撒谎式重构
+
+避免虚假安慰，比如“这一定是好事”。使用更诚实的重构：
 
 ```text
-This has already moved beyond ordinary frustration. You do not need to carry it alone. Please talk to someone you trust today and consider professional support.
+这件事可以是不公平的、痛苦的，同时也仍然是我可以应对的。我不需要认可它，才能保护自己并往前走。
 ```
 
-## Practical Stabilizers
+有用的区分：
 
-Recommend small, grounded actions:
+- 接受现实不等于认同公司。
+- 继续往前走不等于公司是对的。
+- 被选中不等于自己差。
+- 感到受伤不等于软弱。
 
-- Keep a daily work output record.
-- Prepare evidence in batches, not all night.
-- Do not re-read HR messages repeatedly.
-- Use personal time for job search.
-- Talk to one trusted person or lawyer before major decisions.
-- Decide the next 24-hour action, not the whole life plan.
+## 需要更多支持的情况
 
-## Do Not Over-Romanticize Fighting
+如果用户持续失眠、吃不下、无法正常工作、出现惊恐症状，或感觉自己不安全，应建议尽快联系信任的人，并考虑寻求专业心理支持。表达要务实、去污名化：
 
-Do not make resistance sound heroic. The best outcome may be different for different users:
+```text
+这已经不只是普通烦躁了。你不需要一个人扛着。请尽快联系一个你信任的人，也可以考虑寻求专业支持。
+```
 
-- Some should sign a clean package and move on.
-- Some should negotiate harder.
-- Some should prepare for arbitration.
-- Some should prioritize mental health and a new job.
+## 实用稳定动作
 
-The skill should help users choose consciously, not pressure them into a posture.
+建议小而具体的行动：
+
+- 保留每日工作产出记录。
+- 分批整理证据，不要熬夜一次性整理完。
+- 不要反复重看 HR 消息。
+- 用个人时间推进求职。
+- 重大决定前，先和一个信任的人或律师确认。
+- 只决定接下来 24 小时的动作，不急着决定整个人生。
+
+## 不浪漫化对抗
+
+不要把坚持说得很英雄。不同用户的最优选择可能不同：
+
+- 有的人适合签一个干净方案后离开。
+- 有的人适合继续谈。
+- 有的人适合准备仲裁。
+- 有的人应该优先保护心理状态和新工作。
+
+本 Skill 应帮助用户清醒选择，而不是把用户推向某种姿态。

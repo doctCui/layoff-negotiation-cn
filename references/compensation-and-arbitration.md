@@ -1,146 +1,146 @@
-# Compensation And Arbitration
+# 补偿测算与仲裁
 
-Use this when the user asks about N, N+1, 2N, leave payout, social insurance, separation certificate, or labor arbitration.
+当用户询问 N、N+1、2N、假期折现、社保公积金、离职证明或劳动仲裁时，读取本文件。
 
-## Verify First
+## 先核实事实
 
-Labor law details and local practice matter. Ask for:
+劳动法细节和地方实践很重要。先询问：
 
-- Start date.
-- Contract type and renewal history.
-- Average pre-tax wage for the last 12 months.
-- Bonus and allowance structure.
-- Whether wages exceed local cap rules.
-- Company's written termination basis.
-- Proposed separation agreement.
+- 入职时间。
+- 合同类型和续签历史。
+- 解除前 12 个月税前平均工资。
+- 奖金、津贴、补贴、激励收入结构。
+- 工资是否超过当地封顶规则。
+- 公司书面解除或协商依据。
+- 公司提供的协议文本。
 
-## Explain N, N+1, 2N Carefully
+## 谨慎解释 N、N+1、2N
 
-General framing:
+通用理解：
 
-- N is economic compensation based on service years and wage base.
-- N+1 is not automatic for every termination. It often depends on the legal path and notice/pay-in-lieu issue.
-- 2N is compensation for illegal termination, not a reward for long service.
+- N 是经济补偿，通常与工作年限和工资基数有关。
+- N+1 并不是所有解除场景都自动适用，通常取决于具体解除路径和是否涉及代通知金。
+- 2N 是违法解除赔偿金，不是“工龄长就一定能拿”的奖励。
 
-Do not promise a result. Ask a lawyer to assess whether the company's path and evidence support legal termination.
+不要承诺结果。需要让律师结合公司解除路径、制度、证据链判断公司能否合法解除。
 
-## Calculate Before Deciding Whether To Sign
+## 签不签之前先算账
 
-Do not push every user to fight. First estimate the money gap and non-money cost.
+不要默认劝每个人都硬扛。先估算钱差和非金钱成本。
 
-Decision heuristic:
+判断参考：
 
-- If the user has only 1-2 years of service, N+1 and 2N may be close. If the written agreement is clean, payment date is clear, separation certificate is neutral, and the user wants to move on, signing may be rational.
-- If the user has 5+ years of service, the gap between N+1 and 2N can become meaningful. It is more reasonable to slow down, preserve evidence, consult a lawyer, and negotiate.
-- If the company adds poor-performance, misconduct, or personal-resignation language, do not evaluate only the money. The exit label and future risk matter.
-- If the user urgently needs a new job, compare the legal upside with time, energy, lawyer fee, stress, and job-start constraints.
+- 如果工作年限只有 1-2 年，N+1 和 2N 可能差距不大。如果协议干净、付款日期明确、离职证明中性，用户又想尽快进入下一阶段，签署干净方案可能更理性。
+- 如果工作年限超过 5 年，N+1 与 2N 的差距可能变得明显，更值得放慢节奏、保留证据、咨询律师、继续谈判。
+- 如果公司加入绩效不合格、违纪、个人原因离职等表述，不能只看钱，还要看离职标签和后续风险。
+- 如果用户急需入职新工作，要同时评估法律收益、时间精力、律师费、情绪压力和入职衔接。
 
-Use this framing:
+可使用这种表达：
 
 ```text
-First calculate: company offer vs legal N+1 vs possible 2N. Then decide whether the extra upside is worth the time, stress, legal cost, and job-search impact.
+先算三笔账：公司当前方案、法律上可能的 N+1、以及存在争议时可能主张的 2N。再判断额外收益是否值得投入时间、情绪、律师费用和求职成本。
 ```
 
-## Reality Check: Single Termination And 2N Are Not Easy
+## 现实提醒：单方解除和 2N 不轻松
 
-Do not present "wait for unilateral termination" or "arbitrate for 2N" as simple tricks. Social media posts often compress the painful parts because the story did not happen to the reader.
+不要把“等公司单方解除”或“仲裁拿 2N”说成简单技巧。社媒内容经常压缩痛苦过程，因为故事没有发生在读者身上。
 
-Make these costs visible:
+需要让用户看到这些成本：
 
-- The user may stay in a tense workplace for days or weeks.
-- HR/ER may repeatedly pressure the user.
-- The company may add performance, PIP, compliance, or work-discipline narratives.
-- The user may keep asking "why me" even when the legal strategy is rational.
-- High-sensitivity users may feel especially oppressed by the office environment and repeated conversations.
-- Arbitration takes time and energy, and the result is never guaranteed.
+- 用户可能需要在紧张环境中继续待一段时间。
+- HR/ER 可能反复沟通和施压。
+- 公司可能加入绩效、PIP、合规或考勤叙事。
+- 即使策略理性，用户也可能反复陷入“为什么是我”的情绪。
+- 高敏感用户可能更容易被办公环境和反复沟通压得很难受。
+- 仲裁需要时间和精力，结果也不保证。
 
-Use this balanced answer:
+平衡表达：
 
 ```text
-You can consider waiting for unilateral termination or preserving a 2N claim, but first calculate the money gap and assess your emotional capacity, job-search urgency, evidence strength, and legal cost. This path is not as simple as social media makes it look.
+你可以考虑等待公司单方解除或保留 2N 主张，但要先计算钱差，并评估自己的情绪承受力、求职紧迫性、证据强度和法律成本。这条路不像社媒内容里看起来那么简单。
 ```
 
-## Compensation Calculation
+## 补偿计算方式
 
-Ask for exact local and personal facts before calculating. Use this general model:
+计算前先确认当地规则和个人事实。通用模型：
 
 ```text
-Service years:
-- Full year: 1 month wage for each year.
-- 6 months or more but less than 1 year: count as 1 year.
-- Less than 6 months: count as 0.5 month.
+工作年限：
+- 满 1 年：按 1 个月工资计算。
+- 6 个月以上不满 1 年：按 1 年计算。
+- 不满 6 个月：按 0.5 个月计算。
 
-N = service_year_months * wage_base
-N+1 = N + 1 month wage, when pay-in-lieu/notice rules apply
-2N = 2 * N, when the employer's termination is illegal and the claim is supported
+N = 工作年限折算月数 * 工资基数
+N+1 = N + 1 个月工资，前提是该解除路径适用代通知金
+2N = 2 * N，前提是违法解除成立且主张获得支持
 ```
 
-Wage base:
+工资基数：
 
-- Usually based on the employee's average wage in the 12 months before termination.
-- Ask whether bonus, allowance, year-end bonus, and incentive income should be included.
-- Check whether the wage base is capped by local average wage rules.
+- 通常参考解除前 12 个月平均工资。
+- 需要确认奖金、津贴、年终奖、激励收入是否纳入。
+- 需要确认是否受当地社平工资封顶规则影响。
 
-Example:
+示例：
 
 ```text
-If service is 5 years and 7 months, service years for N may be 6.
-If wage base is 30,000:
+如果工作 5 年 7 个月，N 的工作年限可能按 6 年计算。
+如果工资基数为 30,000：
 N = 6 * 30,000 = 180,000
-N+1 = 210,000, if +1 applies
-2N = 360,000, if illegal termination is established
-Gap between N+1 and 2N = 150,000
+N+1 = 210,000，前提是 +1 适用
+2N = 360,000，前提是违法解除成立
+N+1 与 2N 的差额为 150,000
 ```
 
-For short service:
+短年限示例：
 
 ```text
-If service is 1 year and 2 months, N may be 1.
-N+1 = 2 months wage, if +1 applies
-2N = 2 months wage, if illegal termination is established
-The money gap may be close to zero, so signing a clean package may be more practical.
+如果工作 1 年 2 个月，N 可能按 1 年计算。
+N+1 = 2 个月工资，前提是 +1 适用
+2N = 2 个月工资，前提是违法解除成立
+钱差可能接近 0，因此干净签约可能更务实。
 ```
 
-## Ask For Written Details
+## 要求书面明细
 
-The user should request:
+建议用户要求公司写清：
 
-- Termination/separation path.
-- Legal basis and factual basis.
-- Compensation calculation.
-- Wage base.
-- Unused annual leave and compensatory leave.
-- Bonus/incentive settlement.
-- Social insurance and housing provident fund cutoff month.
-- Separation certificate wording.
-- Non-compete status and compensation if activated.
-- Payment date.
+- 解除或协商路径。
+- 法律依据和事实依据。
+- 补偿计算方式。
+- 工资基数。
+- 未休年假和调休结算。
+- 奖金、激励、补贴结算。
+- 社保和住房公积金缴纳截止月份。
+- 离职证明措辞。
+- 竞业限制是否启动及补偿。
+- 付款日期。
 
-For certificate wording details, load `separation-certificate.md`.
+涉及离职证明措辞时，读取 `separation-certificate.md`。
 
-## Arbitration Flow
+## 仲裁流程
 
-Typical flow:
+常见流程：
 
-1. Prepare facts, claims, and evidence.
-2. File labor arbitration application with the competent arbitration commission.
-3. Acceptance and notice.
-4. Evidence exchange or mediation.
-5. Hearing.
-6. Award.
-7. Lawsuit or enforcement if applicable.
+1. 准备事实、请求和证据。
+2. 向有管辖权的劳动人事争议仲裁委员会提交申请。
+3. 立案受理和送达。
+4. 证据交换或调解。
+5. 开庭。
+6. 裁决。
+7. 需要时进入诉讼或执行。
 
-Remind the user to verify limitation periods and local filing rules with current official sources or a lawyer.
+提醒用户核对仲裁时效、当地提交规则和最新官方要求，关键节点咨询律师。
 
-## If The User Finds A New Job
+## 如果用户找到新工作
 
-Do not advise active resignation by default. Prefer negotiating:
+不默认建议主动辞职，优先谈清：
 
-- Mutual termination agreement.
-- Clear compensation.
-- Clean separation certificate.
-- Social insurance/provident fund cutoff.
-- Unused leave payout.
-- Non-compete written status.
+- 协商解除协议。
+- 明确补偿。
+- 干净中性的离职证明。
+- 社保公积金截止月份。
+- 未休假期结算。
+- 竞业限制是否启动的书面结论。
 
-Warn about overlap risk if the user starts a new job before the old employment relationship is clearly resolved.
+提醒用户：在旧劳动关系没有明确结束前入职新公司，可能带来重叠用工和合规风险。

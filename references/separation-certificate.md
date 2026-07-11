@@ -1,66 +1,66 @@
-# Separation Certificate
+# 离职证明
 
-Use this when the user asks what the separation certificate should say, whether the company can write poor performance or negative comments, or how to request a corrected certificate.
+当用户询问离职证明应该怎么写、公司能否写绩效不佳或负面评价、如何要求重开离职证明时，读取本文件。
 
-## Legal Basis
+## 法律依据
 
-Use current official sources when accuracy matters. The key rules are:
+准确性要求高时，应核对最新官方来源。关键规则：
 
-- Labor Contract Law Article 50: the employer should issue proof of termination/rescission when the labor contract is rescinded or terminated, and handle file/social insurance transfer within 15 days.
-- Labor Contract Law Article 89: if the employer violates the law by failing to issue written proof of rescission or termination, the labor administrative department may order correction; if damage is caused, the employer should compensate.
-- Regulations on the Implementation of the Labor Contract Law Article 24: the proof of rescission or termination should state the labor contract term, rescission/termination date, job position, and years of service with the employer.
+- 《劳动合同法》第五十条：用人单位应当在解除或者终止劳动合同时出具解除或者终止劳动合同的证明，并在十五日内为劳动者办理档案和社会保险关系转移手续。
+- 《劳动合同法》第八十九条：用人单位违反规定未向劳动者出具解除或者终止劳动合同的书面证明，由劳动行政部门责令改正；给劳动者造成损害的，应承担赔偿责任。
+- 《劳动合同法实施条例》第二十四条：解除或者终止劳动合同的证明，应当写明劳动合同期限、解除或者终止劳动合同日期、工作岗位、在本单位的工作年限。
 
-Official references:
+官方参考：
 
-- Labor Contract Law: https://www.gjxfj.gov.cn/gjxfj/xxgk/fgwj/flfg/webinfo/2016/03/1460585589931971.htm
-- Implementation Regulations: https://xzfg.moj.gov.cn/front/law/detail?LawID=284
+- 劳动合同法：https://www.gjxfj.gov.cn/gjxfj/xxgk/fgwj/flfg/webinfo/2016/03/1460585589931971.htm
+- 劳动合同法实施条例：https://xzfg.moj.gov.cn/front/law/detail?LawID=284
 
-## Practical Rule
+## 实务原则
 
-The separation certificate is not a performance appraisal. Treat it as a neutral proof that the prior employment relationship has ended.
+离职证明不是绩效评价，也不是双方争议结论。它更适合作为劳动关系已经结束的中性证明。
 
-Prefer wording limited to objective basic facts:
+优先限定为客观基础信息：
 
-- Employee identity.
-- Employer name.
-- Labor contract term or employment period.
-- Rescission/termination date.
-- Job position.
-- Years of service with the employer.
+- 劳动者身份。
+- 用人单位名称。
+- 劳动合同期限或任职期间。
+- 解除或终止日期。
+- 工作岗位。
+- 在本单位工作年限。
 
-Object to wording such as:
+应反对以下措辞：
 
-- Poor performance.
-- Not meeting expectations.
-- Misconduct or disciplinary comments unless part of a separate formal legal document and lawyer-reviewed.
-- Subjective comments about ability, attitude, cooperation, values, or character.
-- "No dispute", "all wages settled", "employee waives all claims", or "employee may not arbitrate/litigate".
-- "Personal reason resignation" when the user did not resign for personal reasons.
+- 绩效不佳。
+- 不符合预期。
+- 违纪或处分性评价，除非它属于另行正式法律文件且已由律师审阅。
+- 对能力、态度、协作、价值观、品行的主观评价。
+- “双方无争议”“全部工资和补偿已结清”“劳动者放弃所有权利”“不得仲裁/诉讼”。
+- 用户并非个人原因离职时写成“个人原因离职”。
 
-## If The Certificate Is Wrong
+## 离职证明写错时
 
-Tell the user to request reissue promptly and in writing:
-
-```text
-I have received the separation certificate. The certificate includes content beyond the objective items required for proof of labor contract rescission/termination, including [specific wording]. I do not agree with this wording. Please reissue a neutral certificate stating the labor contract term/employment period, rescission or termination date, job position, and years of service.
-```
-
-If the company refuses:
+建议用户尽快书面要求重开：
 
 ```text
-Please confirm in writing that the company refuses to reissue the separation certificate. I reserve the right to complain to the labor administrative department, apply for labor arbitration, and claim losses caused by the incorrect or delayed certificate.
+我已收到离职证明。该证明包含超出解除/终止劳动合同证明客观事项范围的内容，包括【具体措辞】。我不认可该表述。请公司重新出具中性离职证明，载明劳动合同期限/任职期间、解除或终止日期、工作岗位和在本单位工作年限。
 ```
 
-## Keep Evidence
+如果公司拒绝：
 
-Preserve:
+```text
+请公司书面确认拒绝重新出具离职证明。我保留向劳动行政部门投诉、申请劳动仲裁，并主张因错误或延迟出具离职证明造成损失的权利。
+```
 
-- The original certificate.
-- The envelope/email/system page where it was issued.
-- The request for reissue.
-- The company's refusal or lack of response.
-- Evidence of job-search or onboarding impact if the certificate causes loss.
+## 保留证据
 
-## Caution
+保留：
 
-Do not overstate the law as "the certificate can never contain any extra words" without reviewing local practice and the exact text. The safer position is: the law and implementation regulation define the required basic contents; negative, subjective, settlement-waiver, or inaccurate wording should be objected to and corrected.
+- 原始离职证明。
+- 开具证明的邮件、系统页面或寄送记录。
+- 要求重开的书面记录。
+- 公司拒绝或不回复的证据。
+- 如果影响求职或入职，保留相应损失证据。
+
+## 注意边界
+
+不要在未看具体文本和地方实践前绝对化表达为“离职证明永远不能多写任何字”。更稳妥的说法是：法律和实施条例规定了应载明的基础事项；负面、主观、放弃权利、结清确认或不准确内容，应及时提出异议并要求更正。

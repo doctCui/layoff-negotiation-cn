@@ -1,87 +1,87 @@
-# Performance Dispute And Appeal
+# 绩效争议与申诉
 
-Use this when the company connects signing with performance review, says "not meeting expectations", starts PIP, schedules a performance discussion meeting, or asks whether the user appeals.
+当公司把签字与绩效评估绑定，提出“不符合预期”、启动 PIP、安排绩效沟通会，或询问用户是否申诉时，读取本文件。
 
-## Core Judgment
+## 核心判断
 
-If performance issues appear after the user refuses to sign a mutual termination agreement, treat it as a high-risk evidence-chain moment. The user should not try to "win the debate" in the meeting. The goals are:
+如果绩效问题是在用户拒绝签署协商解除协议后出现，应把它视为高风险证据链节点。用户在会上不需要“辩赢”公司，目标是：
 
-1. Do not self-admit poor performance.
-2. Do not waive appeal.
-3. Ask for standards and facts.
-4. Leave written disagreement.
-5. Continue working and requesting assignments.
+1. 不自认绩效不佳。
+2. 不放弃申诉。
+3. 要求公司提供标准和事实。
+4. 留下书面不认可记录。
+5. 继续正常工作并要求分配任务。
 
-## When Signing Is Linked To Performance
+## 当签字与绩效绑定
 
-Warning signal:
+高风险表达：
 
 ```text
-If you sign, you do not enter performance review. If you do not sign, the performance result may be not meeting expectations.
+如果你签，就不进入绩效处理；如果你不签，绩效结果可能是不符合预期。
 ```
 
-Suggested response:
+建议回复：
 
 ```text
-I do not agree to link the mutual termination negotiation with a performance conclusion. If the company evaluates my performance, please provide the pre-existing evaluation criteria, factual basis, original data, calibration rules, and appeal channel.
+我不认可将协商解除与绩效结论绑定。如果公司要评价我的绩效，请提供事先存在且已告知的评价标准、事实依据、原始数据、校准规则和申诉渠道。
 ```
 
-## Appeal Is Important
+## 申诉动作很重要
 
-Tell the user to appeal if they do not agree. The appeal may not change the result, but it records that the user did not accept the conclusion.
+如果用户不认可绩效结果，应建议申诉。申诉不一定改变结果，但可以记录用户没有接受该结论。
 
-Appeal points:
+申诉重点：
 
-- Evaluation criteria were unclear, changed, or not communicated in advance.
-- The result appeared after termination negotiation.
-- The user delivered important projects or tasks.
-- Historical performance was normal or positive.
-- Company failed to provide original data or factual basis.
-- The user does not accept "not meeting expectations".
+- 评价标准不清晰、被临时调整，或未提前告知。
+- 绩效结论出现在离职协商之后。
+- 用户交付过重要项目或任务。
+- 历史绩效正常或较好。
+- 公司没有提供原始数据和事实依据。
+- 用户不认可“不符合预期”结论。
 
-## Performance Meeting Rules
+## 绩效沟通会原则
 
-The company side may have aligned talking points. HR, direct manager, and upper manager may ask leading questions or record the meeting. The user should stay narrow:
+公司侧可能已提前对齐话术，HR、直属主管、上级主管也可能录音或提出诱导性问题。用户要把表达收窄：
 
 ```text
-I do not agree with this performance conclusion.
-Please provide the evaluation criteria and factual basis.
-I reserve my appeal and legal rights.
-I will continue performing my duties normally.
+我不认可该绩效结论。
+请提供评价标准和事实依据。
+我保留申诉和依法主张权利的权利。
+我会继续正常履职。
 ```
 
-Do not say:
+不要说：
 
-- I did not do well.
-- I understand why the company gave this result.
-- I accept it.
-- I have no objection.
-- I will not appeal.
+- 我确实做得不好。
+- 我理解公司为什么给这个结果。
+- 我接受这个结果。
+- 我没有异议。
+- 我不申诉。
 
-## After Company Sends Email
+## 公司发邮件后的回复
 
-Always reply in writing if the user disagrees:
+如果用户不同意绩效结论，应书面回复：
 
 ```text
-I have received the performance feedback/meeting conclusion, but I do not agree with the performance conclusion or the related factual findings. I have stated my objections during the appeal process and requested the company provide sufficient evaluation criteria, factual basis, and review explanation. I reserve the right to continue appealing and to pursue legal remedies.
+我已收到绩效反馈/会议结论，但我不认可该绩效结论及相关事实认定。我已在申诉过程中表达异议，并要求公司提供充分的评价标准、事实依据和复核说明。我保留继续申诉及依法主张权利的权利。
 ```
 
-If the email inaccurately describes the user's position:
+如果邮件错误描述了用户立场：
 
 ```text
-The email's description of my position is inaccurate. I have never accepted the performance conclusion and have not waived my appeal rights.
+邮件中关于我方立场的描述不准确。我从未认可该绩效结论，也没有放弃申诉权利。
 ```
 
-## Continue Requesting Work
+## 继续要求工作安排
 
-Send written messages to the manager:
+向主管发送书面消息：
 
 ```text
-I am still normally employed and will continue performing my duties. Please clarify this week's work items, priorities, and expected delivery times. I will cooperate and provide progress updates.
+我仍处于正常劳动关系中，会继续正常履职。请明确我本阶段的工作事项、优先级和预期交付时间，我会配合推进并同步进展。
 ```
 
-If no work is assigned:
+如果没有工作安排：
 
 ```text
-I have asked for current work arrangements and have not yet received specific tasks. If there is work requiring my cooperation, please sync it with me and I will respond normally.
+我已询问当前工作安排，目前尚未收到具体任务。如有需要我配合的工作，请同步给我，我会正常响应和处理。
 ```

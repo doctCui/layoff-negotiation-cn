@@ -1,59 +1,59 @@
-# HR And ER Conversation Scripts
+# HR/ER 沟通话术
 
-Use this when HR, HRBP, or ER pressures the user, mentions special approval, backcheck, job-search impact, deadline, or escalation.
+当 HR、HRBP 或 ER 对用户施压，提到特殊申请、背调影响、找工作影响、签署期限、升级沟通时，读取本文件。
 
-## ER Meaning
+## ER 是什么
 
-ER usually means Employee Relations. ER handles labor relationship risk, termination disputes, performance disputes, misconduct investigation, negotiation, and arbitration risk. ER involvement is not a legal defeat. It means the conversation is more formal and should be more written.
+ER 通常指 Employee Relations，即员工关系。ER 常处理劳动关系风险、解除争议、绩效争议、违纪调查、协商谈判和仲裁风险。ER 介入不代表用户已经输了，但意味着沟通会更正式，用户更需要书面留痕。
 
-## Conversation Rules
+## 沟通原则
 
-1. Listen first.
-2. Do not confirm agreement on the spot.
-3. Ask whether the company is negotiating or making a unilateral decision.
-4. Ask for written basis.
-5. After the meeting, send a written summary.
+1. 先听清楚，不急着反驳。
+2. 不在会议现场确认同意。
+3. 问清公司是在继续协商，还是准备单方解除。
+4. 要求公司提供书面依据。
+5. 会后发送书面纪要或确认邮件。
 
-## Ask The Key Question
-
-```text
-Is the company continuing to negotiate mutual termination with me, or is the company preparing to unilaterally terminate the employment contract? If it is unilateral termination, please specify the legal basis, factual basis, and written notice.
-```
-
-## When HR Says "Special Approval"
-
-Check whether it is truly special:
-
-- Are same-batch employees getting the same date or package?
-- Was the user's original request actually answered?
-- Is this just the standard policy presented as personal favor?
-- Is the company using gratitude pressure to obtain signature?
-
-Response:
+## 关键问题
 
 ```text
-Thank you for the communication. I still need to review the written proposal as a whole. Please provide the company's formal package and calculation basis. I cannot confirm agreement today.
+请问公司目前是在继续与我协商解除劳动合同，还是准备单方解除劳动合同？如果是单方解除，请公司明确法律依据、事实依据和正式书面通知。
 ```
 
-## When ER Mentions Backcheck Or Job Impact
+## 当 HR 说“特殊申请”
 
-Do not argue emotionally. Bring it back to written facts.
+先判断这是否真的是特殊申请：
+
+- 同批次员工是否拿到相同日期或相同方案。
+- 用户原本提出的诉求是否被真正回应。
+- 标准政策是否被包装成个人照顾。
+- 公司是否在用“亏欠感”推动签字。
+
+可回复：
 
 ```text
-I understand the company's reminder. I will communicate professionally. At the same time, please provide the formal written proposal and basis. I do not accept any inaccurate description of my performance or separation reason.
+感谢沟通。我仍需要完整审阅公司的书面方案。请提供正式方案和补偿计算依据，我目前无法确认同意。
 ```
 
-## Meeting Follow-Up Template
+## 当 ER 提到背调或求职影响
+
+不要情绪化争辩，把话题拉回书面事实。
 
 ```text
-Today I communicated with HR/ER about the separation proposal. My understanding is that the company proposed [date/package/path], but I have not confirmed agreement. Please correct in writing if my understanding is inaccurate. I request the company provide the formal written proposal, basis, compensation calculation, separation certificate wording, social insurance/provident fund arrangement, and unused leave settlement.
+我理解公司的提醒，也会保持专业沟通。同时，请公司提供正式书面方案和依据。我不接受任何不准确的绩效描述或离职原因描述。
 ```
 
-## Do Not Sign Or Say
+## 会后书面确认模板
 
-- Personal reason resignation.
-- Voluntary resignation.
-- I accept the performance result.
-- I have no dispute.
-- All compensation has been fully settled.
-- I waive economic compensation or other rights.
+```text
+本次我与 HR/ER 就离职协商方案进行了沟通。我的理解是，公司提出了【日期/补偿/处理路径】方案，但我尚未确认同意。如我的理解不准确，请公司书面更正。请公司提供正式书面方案、依据、补偿计算明细、离职证明措辞、社保公积金安排和未休假期结算。
+```
+
+## 不要签署或口头表达
+
+- 个人原因离职。
+- 自愿离职。
+- 我认可绩效结果。
+- 我没有争议。
+- 所有补偿和工资已经全部结清。
+- 我放弃经济补偿或其他权利。

@@ -1,43 +1,43 @@
-# First 24 Hours After Layoff Notice
+# 被通知裁员后的前 24 小时
 
-Use this when the user was suddenly told they were laid off, especially for "organizational adjustment", "business adjustment", or same-day e-sign requests.
+当用户突然被通知裁员，尤其是公司使用“业务调整”“岗位调整”“团队调整”等理由，并很快推送电子签或要求快速确认时，读取本文件。
 
-## Core Judgment
+## 核心判断
 
-The first day is not for final decisions. The user is usually shocked and lacks full information. The goal is to avoid irreversible mistakes.
+刚被通知时，用户通常处在震惊、混乱和信息不足的状态。这一阶段不是做最终决定的时间，最重要的是避免签下不可逆文件，避免口头承认公司希望用户承认的事实。
 
-## What To Tell The User
+## 立即提醒用户
 
-1. Do not sign on the same day if possible.
-2. Do not orally agree to resign or accept the package.
-3. Ask for the written proposal and calculation details.
-4. Contact an experienced person or lawyer before confirming.
-5. Record the timeline while memory is fresh.
+1. 尽量不要同日签字或点电子签。
+2. 不要口头同意“自愿离职”“接受方案”“认可绩效结论”。
+3. 要求公司提供正式书面方案和补偿计算明细。
+4. 在确认前，先咨询有经验的人或律师。
+5. 记下完整时间线，趁记忆还清楚时把细节固定下来。
 
-## Same-Day E-Sign Pressure
+## 电子签压力
 
-Electronic signing has legal effect. Treat it like paper signing.
+电子签同样可能产生法律效果，应按纸质协议一样谨慎对待。
 
-Safe response:
+安全回复：
 
 ```text
-The time is too short for me to review and confirm. Please send the written proposal, legal basis, compensation calculation, separation date, social insurance/provident fund arrangement, unused leave settlement, and separation certificate wording. I need time to review before responding.
+目前给我的审阅时间过短，我无法直接确认。请公司提供正式书面方案、法律或制度依据、补偿计算明细、离职日期、社保公积金安排、未休假期结算和离职证明措辞。我需要完整审阅后再回复。
 ```
 
-## Useful Timeline Fields
+## 时间线记录字段
 
-- Date and time of first notice.
-- Who attended.
-- Exact reason given by the company.
-- Whether the company mentioned compensation, separation date, or signing deadline.
-- Whether the user was asked to sign, click, confirm, or reply.
-- Whether the user expressed any agreement.
-- Follow-up messages or e-sign links.
+- 首次通知的具体时间。
+- 参与沟通的人员和角色。
+- 公司给出的具体理由。
+- 是否提到补偿、离职日期、签署截止时间。
+- 是否要求用户签字、点击、确认、回复。
+- 用户是否表达过同意。
+- 后续消息、会议邀请、电子签链接和系统流程。
 
-## Warning Signs
+## 高风险信号
 
-- "This is already the best package."
-- "You must sign today."
-- "If you do not sign, later treatment will be worse."
-- "This is specially approved for you" without written or comparable evidence.
-- "Sign first, details later."
+- “这已经是最优方案。”
+- “必须尽快签。”
+- “不签后续方案可能变差。”
+- “这是专门给你申请的”，但没有书面依据或可对比信息。
+- “先签，细节后面再说。”

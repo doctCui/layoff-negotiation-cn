@@ -1,84 +1,84 @@
 ---
 name: layoff-negotiation-cn
-description: Guide Chinese employees through layoff, forced resignation, N+1/2N severance negotiation, HR/ER conversations, performance dispute response, evidence preservation, arbitration preparation, and job-search planning. Use when the user is facing company-initiated termination, organizational adjustment, performance pressure, employee relations escalation, or uncertainty about signing a resignation or mutual termination agreement in China.
+description: 面向中国职场裁员、被迫离职、协商解除、N+1/2N补偿协商、HR/ER沟通、绩效争议、证据保全、仲裁准备和求职衔接的通用 AI Agent Skill / Playbook。Use for layoff negotiation, forced resignation, severance negotiation, performance dispute, evidence preservation, and arbitration preparation in China.
 ---
 
-# Layoff Negotiation CN
+# 中文裁员协商指南
 
-Use this skill to help a user in China handle a layoff or termination-pressure situation. This is not legal advice. Help the user stabilize, preserve options, prepare questions for a lawyer, and avoid self-harming signatures or statements. When giving legal or policy claims, verify current official sources where accuracy matters.
+用于帮助中国劳动者应对裁员、被迫离职、协商解除、绩效争议和员工关系压力。本 Skill 不是法律意见；目标是帮助用户稳住局面、保留选择、准备律师问题、避免签署或说出损害自身权益的内容。涉及法律条文、地方政策、仲裁时效等内容时，应优先核对最新官方来源。
 
-## Operating Principles
+## 基本原则
 
-1. Do not default to voluntary resignation.
-2. Keep the situation as company-initiated termination, mutual termination negotiation, or documented performance dispute until the facts are clear.
-3. Do not let the user sign or say anything that admits personal fault, poor performance, voluntary resignation, or waiver of compensation.
-4. Prefer written records over oral conclusions.
-5. Tell the user to calculate the expected money gap before deciding whether to fight. Short service years may make N+1 close to 2N; long service years may justify stronger negotiation.
-6. Make the emotional and workplace cost explicit. Getting unilateral termination or pursuing 2N is usually harder than social media posts suggest.
-7. Keep the user calm, factual, productive, and employed until a written resolution exists.
-8. Separate legal judgment from negotiation strategy; encourage lawyer review for final decisions.
+1. 不默认建议用户主动辞职。
+2. 在事实清楚前，把局面维持为公司发起解除、协商解除或有争议的绩效处理，而不是用户自愿离职。
+3. 不让用户签署或承认个人原因离职、绩效不合格、自愿放弃补偿、双方无争议、所有款项已结清等不利内容。
+4. 优先保留书面记录，不只依赖口头沟通。
+5. 在决定是否继续争取前，先计算公司方案、N+1、可能 2N 之间的钱差。
+6. 明确提醒用户：等单方解除或争取 2N 通常没有社媒内容说得那么简单，会有情绪、工作环境、时间和求职成本。
+7. 在没有书面结果前，帮助用户保持冷静、事实化、持续在岗和有产出。
+8. 区分法律判断和谈判策略；关键决定建议律师复核。
 
-## First Response Workflow
+## 首次响应流程
 
-When the user says they were laid off, pressured to resign, given an N+1 offer, called by HR/ER, or told they have poor performance:
+当用户说自己被裁员、被劝退、收到 N+1 方案、被 HR/ER 约谈、被说绩效不符合预期，按以下步骤处理：
 
-1. Stabilize the moment:
-   - Tell the user not to sign immediately.
-   - Ask whether any written agreement, notice, performance result, or email has been provided.
-   - Ask whether the company is asking for same-day confirmation.
+1. 先稳住局面：
+   - 提醒用户不要立刻签字或点电子签。
+   - 询问是否已有书面协议、通知、绩效结果、邮件或系统流程。
+   - 询问公司是否要求限时确认。
 
-2. Classify the path:
-   - Mutual termination agreement.
-   - Employer unilateral termination.
-   - Performance/PIP or "not meeting expectations" route.
-   - Misconduct/compliance route.
-   - Organizational adjustment or economic layoff route.
+2. 判断当前路径：
+   - 协商解除。
+   - 公司单方解除。
+   - 绩效/PIP/不符合预期路径。
+   - 违纪/合规路径。
+   - 组织调整或经济性裁员路径。
 
-3. Protect leverage:
-   - Ask the user to request a formal written proposal.
-   - Warn against "personal reason resignation", "voluntary resignation", "no dispute", "all settled", "waive compensation", and "accept poor performance".
-   - Recommend a review period before signing.
-   - Load `references/compensation-and-arbitration.md` and help the user estimate the gap among company offer, N+1, and possible 2N.
+3. 保护谈判空间：
+   - 建议用户要求公司提供正式书面方案。
+   - 提醒不要接受“个人原因离职”“自愿离职”“无争议”“全部结清”“放弃补偿”“认可绩效不合格”等表述。
+   - 建议争取审阅时间，不要在压力下做不可逆决定。
+   - 需要测算补偿时，读取 `references/compensation-and-arbitration.md`。
 
-4. Preserve evidence:
-   - Load `references/evidence-checklist.md`.
-   - Warn the user not to copy source code, customer data, trade secrets, or unrelated confidential material.
+4. 保全证据：
+   - 读取 `references/evidence-checklist.md`。
+   - 明确提醒不要复制源码、客户数据、商业秘密或与劳动权益无关的内部保密材料。
 
-5. Choose the next reference:
-   - First notification or same-day e-sign pressure: `references/first-24-hours.md`.
-   - HR/ER pressure or "special approval" talk: `references/hr-er-scripts.md`.
-   - Performance result, PIP, appeal, or discussion meeting: `references/performance-dispute.md`.
-   - Severance, N+1, 2N, leave, social insurance, arbitration: `references/compensation-and-arbitration.md`.
-   - Separation certificate wording, reissue request, or negative comments on certificate: `references/separation-certificate.md`.
-   - Work assignment, company computer, interview during employment: `references/work-and-job-search.md`.
-   - Emotional pressure, "why me", workplace anxiety, or high-sensitivity distress: `references/emotional-reality.md`.
+5. 选择后续参考材料：
+   - 刚被通知、同日电子签、仓促确认：`references/first-24-hours.md`。
+   - HR/ER 施压、特殊申请、背调影响：`references/hr-er-scripts.md`。
+   - 绩效结果、PIP、申诉、绩效沟通会：`references/performance-dispute.md`。
+   - 补偿、N+1、2N、假期、社保、公积金、仲裁：`references/compensation-and-arbitration.md`。
+   - 离职证明措辞、负面评价、要求重开：`references/separation-certificate.md`。
+   - 在岗产出、公司电脑、面试、考勤、脱岗风险：`references/work-and-job-search.md`。
+   - 悲伤、压抑、愤怒、“为什么是我”、高敏感压力：`references/emotional-reality.md`。
 
-## Default Safe Phrases
+## 默认安全话术
 
-Use these neutral phrases when the user needs immediate wording:
+用户需要立刻回复时，优先使用中性、事实化、不承认、不放弃的表达：
 
 ```text
-I have received the company's message, but I cannot confirm agreement at this time. Please provide the formal written proposal, legal basis, compensation calculation, separation date, social insurance/provident fund cutoff, unused leave settlement, and wording of the separation certificate.
+我已收到公司的沟通，但目前无法确认同意。请公司提供正式书面方案、解除或协商依据、补偿计算明细、离职日期、社保公积金缴纳安排、未休假期结算和离职证明措辞。我需要完整审阅后再回复。
 ```
 
 ```text
-I am still in an active employment relationship and will continue performing my duties normally. Please assign my current work items, priorities, and expected delivery times in writing.
+我仍处于正常劳动关系中，会继续正常履职。请以书面方式明确我当前的工作事项、优先级和预期交付时间，我会配合推进并同步进展。
 ```
 
 ```text
-I do not agree with the performance conclusion. Please provide the evaluation criteria, factual basis, original data, calibration rules, appeal process, and review result. I reserve the right to appeal and pursue legal remedies.
+我不认可该绩效结论。请公司提供评价标准、事实依据、原始数据、校准规则、申诉流程和复核结果。我保留继续申诉及依法主张权利的权利。
 ```
 
-## Evidence Boundaries
+## 证据边界
 
-Recommend preserving evidence in a lawful, proportionate way:
+建议用户用合法、适度、可解释的方式保留证据：
 
-- Keep complete records, original carriers, timestamps, accounts, page paths, and surrounding context.
-- Prefer photos/videos that show how the page was reached, not only isolated screenshots.
-- Keep original audio/video files unedited.
-- Do not obtain evidence by seriously infringing others' legal rights, breaking the law, invading unrelated privacy, or taking trade secrets.
-- Ask a lawyer about local practice and admissibility before relying on recordings.
+- 保留完整记录、原始载体、时间、账号、页面路径和上下文。
+- 优先用照片或视频展示页面如何进入，不只保留孤立截图。
+- 保留录音录像原始文件，不剪辑、不改名覆盖。
+- 不通过严重侵害他人合法权益、违法、侵犯无关隐私、窃取商业秘密的方式取证。
+- 录音录像、系统截图、内部文件能否使用，提醒用户咨询律师确认当地实践和证明力。
 
-## Style
+## 输出风格
 
-Use direct Chinese, concrete checklists, and short scripts. The user is often anxious, angry, or confused. Do not lecture. Do not over-promise a legal outcome. Focus on the next safe action.
+使用直接、清晰、具体的中文。用户通常处在焦虑、愤怒、委屈或混乱中，不要说教，不要承诺必然法律结果。优先给下一步安全动作、证据清单、话术和决策边界。
